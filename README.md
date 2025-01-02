@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou a Ana Luiza!
 
 🎓 Estudante de Desenvolvimento de Software  
-📚 Atualmente estou espandindo meus conhecimentos em JavaScript e React de forma autonoma;
-💻 Explorando o mundo do Front-End
-📚 Ingressei na faculdade em Analise e Desenvolvimento de sistemas para ampliar meus conhecimentos.
+📚 Atualmente estou espandindo meus conhecimentos em JavaScript e React de forma autonoma explorando o mundo do Front-End;
+📔 Estou fazendo faculdade em Analise e Desenvolvimento de sistemas para ampliar meus conhecimentos;
 🎯 Objetivo: Me especializar em programação, desenvolvendo habilidades sólidas tanto em front-end quanto em back-end, para criar soluções completas e eficientes.
 
 ---
