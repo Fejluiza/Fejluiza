@@ -39,6 +39,7 @@ Nos meus momentos livres, gosto:
 
 ## 🌐 Caso queira saber mais sobre mim:
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/SEU_PERFIL)
 Linkedin: www.linkedin.com/in/fejluiza
 
 ---
