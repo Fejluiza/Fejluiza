@@ -24,7 +24,7 @@
 
 ## 🌟 Sobre mim
 
-Eu sou apaixonada por tecnologia e desafios! 🚀  
+Eu sou apaixonada por desafios! 🚀  
 Atualmente, estou me dedicando em cursos, buscando certificações e desenvolvendo projetos práticos para aplicar o que aprendo.
 
 Nos meus momentos livres, gosto:
